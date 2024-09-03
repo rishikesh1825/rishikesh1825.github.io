@@ -1,2 +1,2 @@
-# rishikesh1825.gtihub.io
+# rishikesh1825.github.io
 Hi, this is Rishikesh.
